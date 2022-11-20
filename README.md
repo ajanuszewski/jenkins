@@ -4,8 +4,5 @@ DevOps - jenkins labs
 
 Changing content of README
 
-lorem ipsum
-
-
-removing recent changes
-testtest2
+Testing webhook
+Second test of webhook
